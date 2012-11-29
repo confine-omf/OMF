@@ -37,6 +37,7 @@ require 'omf-common/hash-ext'
 require 'omf-common/omfVersion'
 require 'omf-resctl/omf_agent/rcCommunicator'
 require 'omf-resctl/omf_agent/agentCommands'
+require 'omf-resctl/omf_agent/agentSubstitution'
 
 #
 # This class defines the Node Agent (NA) entity, which is a daemon
